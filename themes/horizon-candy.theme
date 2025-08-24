@@ -1,0 +1,12 @@
+[Scheme]
+Name=Horizon Candy
+ColorForeground=#c9c3d6
+ColorBackground=#1C1E26
+ColorCursor=#FF99C0
+ColorCursorForeground=#1C1E26
+ColorCursorUseDefault=FALSE
+ColorSelectionBackground=#6C6F93A0
+ColorSelection=#c9c3d6
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#FF99C0
+ColorPalette=#1A1C23;#FF6B81;#7cffcd;#FFC887;#87CEFA;#CBA2EE;#A0E7E5;#c9c3d6;#3F414F;#FF8FAB;#7cffcd;#FFD9A7;#9AEBEE;#CBA2EE;#A0E7E5;#c9c3d6
